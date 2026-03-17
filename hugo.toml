@@ -1,0 +1,4 @@
+baseURL = "https://gattuzuo.github.io/wechat-sync/"
+languageCode = "zh-cn"
+title = "魔都房房房的文章"
+theme = "PaperMod"
